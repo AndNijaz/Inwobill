@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T07:58:53.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="043V2ZhnzU_4NlZVVeHY" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T08:43:27.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="LhnnApGmn_Tir_0UH_4k" version="24.0.2" type="github">
   <diagram name="Page-1" id="T0GCtDTDZE_z4KIRWKmC">
-    <mxGraphModel dx="1781" dy="2223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2120" dy="1737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,13 +50,13 @@
           <mxGeometry x="150" y="811" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OLnvpsV-A2rSnwupTOGr-6" value="&amp;lt;/div grid grid--2-cols&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="149" y="901" width="160" height="20" as="geometry" />
+          <mxGeometry x="149" y="980" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OLnvpsV-A2rSnwupTOGr-7" value="&amp;lt;Left friends={friends} /&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="841" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OLnvpsV-A2rSnwupTOGr-8" value="&amp;lt;Right stateManipulation /&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="871" width="160" height="20" as="geometry" />
+          <mxGeometry x="190" y="950" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OLnvpsV-A2rSnwupTOGr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OLnvpsV-A2rSnwupTOGr-9" target="OLnvpsV-A2rSnwupTOGr-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -75,7 +75,7 @@
           <mxGeometry x="131" y="550" width="89" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OLnvpsV-A2rSnwupTOGr-14" value="&amp;lt;Friends /&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="121.5" y="931" width="79.5" height="20" as="geometry" />
+          <mxGeometry x="121.5" y="1010" width="79.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OLnvpsV-A2rSnwupTOGr-15" value="&amp;lt;Friends&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="121.5" y="750" width="79.5" height="20" as="geometry" />
